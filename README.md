@@ -4,7 +4,7 @@ A dynamic quiz application that allows users to test their knowledge with questi
 
 ## Live Demo
 
-You can view and interact with the Quiz App online: [Live Demo](https://quiz39.netlify.app)
+You can view and interact with the Quiz App online: https://quiz39.netlify.app
 
 ## Features
 
